@@ -3,7 +3,7 @@ public class HelloWorld {
         // Prints "Hello, World" to the terminal window.
         System.out.println("Hello, World");
         
-        int maxNum = 100;
+        int maxNum = 50;
         for(int i = 0; i < maxNum; i++)
           System.out.println( i + "! is " + factorial(i)); 
     }
